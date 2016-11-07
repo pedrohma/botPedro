@@ -1,0 +1,40 @@
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Bot Application1.dll.config
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Bot Application1.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Bot Application1.pdb
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Autofac.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Chronic.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Microsoft.Bot.Builder.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Microsoft.Bot.Connector.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Newtonsoft.Json.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\System.Net.Http.Formatting.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\System.Web.Http.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\System.Web.Http.WebHost.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Autofac.xml
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Microsoft.Bot.Builder.xml
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Microsoft.Bot.Connector.xml
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\Newtonsoft.Json.xml
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\System.Net.Http.Formatting.xml
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\System.Web.Http.xml
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\System.Web.Http.WebHost.xml
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\obj\Debug\botPedro.csprojResolveAssemblyReference.cache
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\obj\Debug\Bot Application1.dll
+c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\obj\Debug\Bot Application1.pdb
+C:\Users\t-peart\Documents\Visual Studio 2015\Projects\botPedro\botPedro\bin\Microsoft.Cognitive.LUIS.dll
