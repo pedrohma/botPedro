@@ -1,6 +1,7 @@
 ﻿using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Builder.Luis;
 using Microsoft.Bot.Builder.Luis.Models;
+using Microsoft.Bot.Connector;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,8 +25,19 @@ namespace botPedro.Model
         public async Task OiAsync(IDialogContext context, LuisResult result)
         {
             await context.PostAsync("Olá, tudo bem?");
+
+
             context.Wait(MessageReceived);
         }
+
+        [LuisIntent("Ajuda")]
+        public async Task AjudaAsync(IDialogContext context, LuisResult result)
+        {
+
+            await context.PostAsync("Como poderia lhe ajudar? \n\n 1.Agendar \n\n 2.Consultar");
+            context.Wait(MessageReceived);
+        }
+      
 
     }
 }
