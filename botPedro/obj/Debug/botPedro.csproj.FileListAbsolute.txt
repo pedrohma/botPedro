@@ -38,3 +38,4 @@ c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\obj\Deb
 c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\obj\Debug\Bot Application1.dll
 c:\users\t-peart\documents\visual studio 2015\Projects\botPedro\botPedro\obj\Debug\Bot Application1.pdb
 C:\Users\t-peart\Documents\Visual Studio 2015\Projects\botPedro\botPedro\bin\Microsoft.Cognitive.LUIS.dll
+C:\Users\t-peart\Documents\Visual Studio 2015\Projects\botPedro\botPedro\obj\Debug\botPedro.csproj.ResolveComReference.cache

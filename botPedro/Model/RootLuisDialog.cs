@@ -12,8 +12,9 @@ namespace botPedro.Model
 {
     [LuisModel("e3866536-b821-462f-b2ce-f6913f97e8dc", "d62c7688831a4ab0871f3e3cb0e71e15")]
     [Serializable]
-    public class RootLuisDialog : LuisDialog<object>
+    public class RootLuisDialog : LuisDialog<object>, IDialog<object>
     {
+
         [LuisIntent("None")]
         public async Task NoneAsync(IDialogContext context, LuisResult result)
         {
@@ -25,19 +26,29 @@ namespace botPedro.Model
         public async Task OiAsync(IDialogContext context, LuisResult result)
         {
             await context.PostAsync("Olá, tudo bem?");
-
-
             context.Wait(MessageReceived);
         }
 
         [LuisIntent("Ajuda")]
         public async Task AjudaAsync(IDialogContext context, LuisResult result)
         {
-
             await context.PostAsync("Como poderia lhe ajudar? \n\n 1.Agendar \n\n 2.Consultar");
             context.Wait(MessageReceived);
         }
-      
+
+        [LuisIntent("Agendar")]
+        public async Task AgendarAsync(IDialogContext context, LuisResult result)
+        {
+            await context.PostAsync("Qual o melhor dia para você? (Utilize o formato dd/MM)");
+            context.Wait(MessageReceived);
+        }
+
+        [LuisIntent("RespostaSaudacao")]
+        public async Task RespostaSaudacaoAsync(IDialogContext context, LuisResult result)
+        {
+            await context.PostAsync("Estou bem também! Como poderia lhe ajudar? \n\n 1.Agendar \n\n 2.Consultar");
+            context.Wait(MessageReceived);
+        }
 
     }
 }
